@@ -2,6 +2,51 @@
 	<h3>👧🏻LARA-MD WHATSAPP BOT👧🏻</h3>
 <img src="https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg" width="300" height="150">
 </div>
+<p align="center">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/docker/pulls/blackamda/queenamdi?style=flat-square&label=Docker+Pulls">
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://github.com/sadiyamin/Lara-MD">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsadiyamin%2FLara-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+  
+  </a>
+  <a href="https://github.com/sadiyamin/Lara-MD/fork">
+    <img src="https://img.shields.io/github/forks/sadiyamin/Lara-MD?label=Fork&style=social">
+    
+  </a>
+  <a href="https://github.com/sadiyamin/Lara-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/sadiyamin/Lara-MD?style=social">
+  </a>
+</p>
+
+<p align="center">
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/github/repo-size/sadiyamin/Lara-MD?color=purple&label=Repo%20Size&style=plastic">
+
+  </a>
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/github/license/sadiyamin/Lara-MD?color=purple&label=License&style=plastic">
+
+  </a>
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/github/languages/top/sadiyamin/Lara-MD?color=purple&label=Javascript&style=plastic">
+
+  </a>
+  <a href="httsp://github.com/sadiyamin/Lara-MD">
+    <img src="https://img.shields.io/static/v1?label=Author&message=sadiya%20min&color=purple&style=plastic">
+
+  </a>
+  </p>
+ <p align="center">
+  <a href="https://wa.me/94779062397">
+    <img src="https://img.shields.io/badge/Contact%20Me%20On%20Whatsapp-Lara%20MD%20BOT-purple&style=plastic">
+
+  </a>
+</p>
 <div align="center">
 </p>
 	
@@ -31,11 +76,15 @@
 <br>
 <h3>SEVER ➊</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1d2j.onrender.com/">🌸 SESSION_ID 🌸 ➊</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ➊</a></tr></button>
 <br>
 <h3>SEVER ❷</h3>
 <div align="center">
-<button><tr><a href="https://webpair-mega-1.onrender.com/pair">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ❷</a></tr></button>
+<br>
+<h3>SEVER ➌</h3>
+<div align="center">
+<button><tr><a href="https://webpair-mega-jx81.onrender.com">🌸 SESSION_ID 🌸 ➌</a></tr></button>
 </div>
 <br>
 
@@ -44,7 +93,7 @@
 *🌸 If you past session id in (config.js/SESSION_ID || "past_copy_text")*
 
 <h3>🌸 Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa suported 👧</a>
+<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Lara suported 👧</a>
 <hr>
 <h3>🌸 Lara updates chanels </h3>
 <a href="https://whatsapp.com/channel/0029VaD5t8S1nozDfDDjRj2J">Join Alexa updates chanel 👧</a>
